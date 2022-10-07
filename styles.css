@@ -1,9 +1,13 @@
 body {
-  background-color: powderblue;
+  background-color: lightblue;
 }
+
 h1 {
-  color: blue;
+  color: white;
+  text-align: center;
 }
+
 p {
-  color: red;
+  font-family: verdana;
+  font-size: 20px;
 }
